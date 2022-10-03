@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DB",
+    "\\WebAPIClient",
+    "\\WebAPIClient\\Controllers",
+    "\\WebAPIClient\\obj",
+    "\\WebAPIClient\\obj\\Debug",
+    "\\WebAPIClient\\obj\\Release"
+  ],
+  "SelectedNode": "\\WebAPIClient\\WebAPIClient.sln",
+  "PreviewInSolutionExplorer": false
+}

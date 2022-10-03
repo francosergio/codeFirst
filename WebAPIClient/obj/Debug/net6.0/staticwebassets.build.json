@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZyDZunxMYoNScJUiSM8gMQryQKrw06HQ51RtaWEcLgg=",
+  "Source": "WebAPIClient",
+  "BasePath": "_content/WebAPIClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
